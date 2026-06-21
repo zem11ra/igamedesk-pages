@@ -1,2 +1,14 @@
 # igamedesk-pages
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
